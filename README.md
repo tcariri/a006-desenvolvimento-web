@@ -1,4 +1,4 @@
-Faça o Fork deste repo e execute o clone do repo forkado para seu computador.
+Faça o ***Fork*** deste repo e execute o ***clone do repo forkado para seu computador***.
 
 Crie uma nova branch chamada ```intro-web``` para trabalhar nos exercícios de hoje.
 
